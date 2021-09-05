@@ -1,4 +1,6 @@
-## pyinstaller 是一款可以打包.py为.exe 的实用工具
+### pyinstaller 是一款可以打包.py为.exe 的实用工具
+
+
 ### 这里给大家介绍一些常用的功能
 ### 首先，安装pyinstaller插件：
 
@@ -31,4 +33,4 @@ pyinstaller -F -i ico_name.ico name.py
 pyinstaller -F -W name.py
 ```
 ## 以上，
-### 喜欢的请给我点个star，谢谢咯~
+#### 喜欢的请给我点个star，谢谢咯~
