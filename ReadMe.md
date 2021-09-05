@@ -40,5 +40,8 @@ pyinstaller -F -W name.py
 ## 3、ico图标制作网站，可以看看这个：http://www.ico51.cn/
 ### ico图标免费下载网站：https://www.aigei.com/icon/class/
 
+## 4、注意：
+如果是打包pygame这样的有素材包的py文件，需要将生成后的exe文件和原来的素材包文件放在同目录下才可以运行哦！
+
 ## 以上，
 #### 喜欢的请给我点个star，谢谢咯~
