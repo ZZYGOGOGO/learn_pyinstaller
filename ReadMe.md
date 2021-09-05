@@ -37,7 +37,8 @@ pyinstaller -F -i ico_name.ico name.py
 ```
 pyinstaller -F -W name.py
 ```
-## 3,ico图标制作网站，可以看看这个：http://www.ico51.cn/
+## 3、ico图标制作网站，可以看看这个：http://www.ico51.cn/
+### ico图标免费下载网站：https://www.aigei.com/icon/class/
 
 ## 以上，
 #### 喜欢的请给我点个star，谢谢咯~
