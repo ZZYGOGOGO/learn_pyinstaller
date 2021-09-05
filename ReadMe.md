@@ -15,6 +15,8 @@ pip install pyinstaller
 ```
 pyinstaller -F name.py
 ```
+![11](https://user-images.githubusercontent.com/79883276/132129521-12f7646f-4c51-4131-bfa5-a69e5e92fbf0.png)
+
 在生成的dist文件夹中即可看到生成的exe文件
 
 ## 2、其他命令
@@ -27,6 +29,7 @@ pyinstaller -F name.py
 pyinstaller -F -i ico_name.ico name.py
 ```
 #### ico_name是你的ico图片的名称
+![2](https://user-images.githubusercontent.com/79883276/132129525-d087968e-0aa5-4396-949a-a121fb0814bf.png)
 
 #### 如果你的爬虫程序没有交互功能，你不想看到运行后的黑框框，你可以在终端中输入
 ```
